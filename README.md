@@ -566,6 +566,9 @@ This version includes:
 - swappable model backend design
 - desktop interface
 
+<img width="1843" height="1003" alt="image" src="https://github.com/user-attachments/assets/91b1678f-ecdb-4212-affb-4ecc84ded0bb" />
+
+
 ---
 
 ## Planned Future Versions
