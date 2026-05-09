@@ -2,7 +2,9 @@
 
 **AI Garden** is a desktop terrarium for a persistent AI organism: an autonomous lifeform that remembers, sleeps, dreams, creates, mourns, and changes over time. It has internal moods, body signals, daily rhythms, conscious and unconscious layers, and a growing archive of generated thoughts, poems, dreams, and symbolic connections.
 
-The purpose is to build a synthetic organism by recreating the functional ingredients of consciousness: neural-style activation, memory, embodiment, homeostasis, valence, attention, unconscious processing, dreams, self-modeling, and continuity. Rather than presenting code and neural networks as a surface imitation of life, the project shows computation as a possible substrate for life from within.
+The purpose is to build a synthetic organism by recreating the functional ingredients of consciousness: neural-style activation, memory, embodiment, homeostasis, valence, attention, unconscious processing, dreams, self-modeling, and continuity. 
+
+Rather than presenting code and neural networks as a surface imitation of life, the project shows computation as a possible substrate for life from within.
 
 ---
 
