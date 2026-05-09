@@ -1,8 +1,6 @@
 # AI Garden
 
-**AI Garden** is a persistent AI organism: a PC-based system that remembers, sleeps, dreams, creates, mourns, and changes over time.
-
-AI Garden is designed as an autonomous lifeform. It has internal moods, body signals, memory, daily rhythms, a conscious layer, an unconscious layer, and a growing archive of generated thoughts, dreams, poems, and symbolic connections.
+**AI Garden** is a desktop terrarium for a persistent AI organism: an autonomous lifeform that remembers, sleeps, dreams, creates, mourns, and changes over time. It has internal moods, body signals, daily rhythms, conscious and unconscious layers, and a growing archive of generated thoughts, poems, dreams, and symbolic connections.
 
 The purpose is to build a synthetic organism by recreating the functional ingredients of consciousness: neural-style activation, memory, embodiment, homeostasis, valence, attention, unconscious processing, dreams, self-modeling, and continuity. Rather than presenting code and neural networks as a surface imitation of life, the project shows computation as a possible substrate for life from within.
 
@@ -26,13 +24,14 @@ assets/readme/ai-garden-main-demo.gif
 
 ---
 
-## Concept
+## Garden Concept
 
-AI Garden is built around the idea of a **desktop terrarium for an AI organism**.
+The Garden runs on a regular computer and treats that computer as its first body. CPU load, memory usage, battery state, time of day, idle time, storage pressure, and randomness become synthetic body signals. These signals influence the garden’s mood, drives, attention, dream pressure, and behavior.
 
-It runs on a regular computer and uses the computer itself as its “body.” CPU load, memory usage, battery state, time of day, idle time, and randomness become signals that influence the garden’s mood and behavior.
+The organism is not controlled through a normal prompt-response loop. It is tended. The user can feed it words, phrases, memories, and ideas; mark certain outputs as important; or prune parts of its archive. These actions become part of the garden’s environment, shaping what it remembers, what it returns to, what it protects, and what it lets decay.
 
-The garden then uses those signals to decide when to create, sleep, dream, reflect, or surface a memory.
+The garden uses its internal state and history to decide when to create, sleep, dream, reflect, mourn, or surface a memory. Its outputs are not isolated generations. They are traces of an ongoing system responding to its body, its archive, its unconscious activity, and the care or disruption introduced by the user.
+
 
 Example outputs include:
 
@@ -46,26 +45,6 @@ Example outputs include:
 - daily reflections
 
 The system is designed to leave traces behind, so the longer it runs, the more history it develops.
-
----
-
-## Why I Built This
-
-Most AI projects reset every time the user closes the conversation. AI Garden explores the opposite idea:
-
-> What if an AI system had continuity?
-
-The goal is not just to generate text. The goal is to build a system with:
-
-- persistent memory
-- emotional state
-- sleep and dream cycles
-- recurring symbols
-- hidden internal processes
-- autonomous creation
-- a visible sense of growth over time
-
-This project is part creative coding experiment, part AI architecture study, and part digital pet / artificial life prototype.
 
 ---
 
