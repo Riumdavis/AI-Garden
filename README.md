@@ -7,21 +7,8 @@ The purpose is to build a synthetic organism by recreating the functional ingred
 Rather than presenting code and neural networks as a surface imitation of life, the Garden shows computation as a possible substrate of life.
 ---
 
-<!-- 
-PHOTO / GIF SUGGESTION:
-Add a main screenshot or short GIF here.
+<img width="1848" height="984" alt="image" src="https://github.com/user-attachments/assets/4d1ad833-ba1e-471d-81a9-c24ef864e6e0" />
 
-Show:
-- The AI Garden desktop window open
-- Current mood visible
-- Conscious / unconscious panel visible
-- A generated receipt or dream visible
-
-Suggested file:
-assets/readme/ai-garden-main-demo.gif
--->
-
-![AI Garden main interface](assets/readme/ai-garden-main-demo.gif)
 
 ---
 
@@ -587,7 +574,7 @@ This version includes:
 - Safe `.env` configuration handling
 - Modular design for future Ollama, hardware, printer, display, and sensor support
  
-<img width="1843" height="955" alt="Garden v1" src="https://github.com/user-attachments/assets/3d7e06a8-d367-49c0-a857-cd3a92967d95" />
+<img width="1848" height="984" alt="image" src="https://github.com/user-attachments/assets/d2b691ea-4634-4fbe-97da-c21f9be7df5c" />
 
 ---
 
