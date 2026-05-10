@@ -7,8 +7,7 @@ The purpose is to build a synthetic organism by recreating the functional ingred
 Rather than presenting code and neural networks as a surface imitation of life, the Garden shows computation as a possible substrate of life.
 ---
 
-<img width="1848" height="984" alt="image" src="https://github.com/user-attachments/assets/4d1ad833-ba1e-471d-81a9-c24ef864e6e0" />
-
+<img width="1848" height="984" alt="image" src="https://github.com/user-attachments/assets/c8ff3e28-9761-4431-b4ce-7b241164d03b" />
 
 ---
 
