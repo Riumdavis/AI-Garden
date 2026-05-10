@@ -4,8 +4,7 @@
 
 The purpose is to build a synthetic organism by recreating the functional ingredients of consciousness: neural-style activation, memory, embodiment, homeostasis, valence, attention, unconscious processing, dreams, self-modeling, and continuity. 
 
-Rather than presenting code and neural networks as a surface imitation of life, the project shows computation as a possible substrate for life from within.
-
+Rather than presenting code and neural networks as a surface imitation of life, the Garden shows computation as a possible substrate of life.
 ---
 
 <!-- 
@@ -50,6 +49,11 @@ The system is designed to leave traces behind, so the longer it runs, the more h
 
 ---
 
+##Skills Used
+
+AI system design, desktop application development, API integration, persistent memory, autonomous agent behavior, user interaction design, and long-term project architecture.
+
+---
 ## Core Features
 
 ### Persistent Memory
@@ -554,17 +558,34 @@ For portfolio purposes, this version is considered:
 
 This version includes:
 
-- persistent local memory
-- computer-body signal system
-- mood and drive system
-- autonomous creation loop
-- sleep and dream cycle
-- virtual receipt output
-- feed/prune user interaction
-- dead-world and mourning system
-- conscious / preconscious / unconscious architecture
-- swappable model backend design
-- desktop interface
+
+- Persistent memory archive using local storage
+- OpenAI API integration with low/main/high model routing
+- Monthly budget controls for API usage
+- Computer-body signal system using CPU, RAM, disk, time, battery, and entropy
+- Mood, drive, and synthetic physiology systems
+- Conscious, preconscious, and unconscious state layers
+- Sleep, dream, ritual, and reflection cycles
+- Semantic memory connections and garden-map visualization
+- Ask the Garden conversational interface with dialogue context
+- Feed, prune, and mark-important memory interactions
+- Generated receipts, SVG/PNG/PDF artifacts, and image prompts
+- Generated melodies, WAV/MIDI files, and sound playback
+- Generated world simulations with mourning/dead-world behavior
+- Settings panel, optional notifications, and hardware-output preparation
+
+### Technical Highlights
+
+- Python desktop application
+- Tkinter GUI
+- SQLite/local file persistence
+- OpenAI API integration
+- Cost-aware model routing
+- Semantic memory architecture
+- Autonomous agent loop
+- Audio and artifact generation
+- Safe `.env` configuration handling
+- Modular design for future Ollama, hardware, printer, display, and sensor support
  
 <img width="1843" height="955" alt="Garden v1" src="https://github.com/user-attachments/assets/3d7e06a8-d367-49c0-a857-cd3a92967d95" />
 
