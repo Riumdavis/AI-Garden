@@ -57,9 +57,6 @@ It remembers:
 - daily events
 
 Each memory can include metadata such as mood, time, importance, tags, emotional weight, and related memories.
-
----
-
 <!-- 
 PHOTO SUGGESTION:
 Add a screenshot of the archive/memory panel.
@@ -73,9 +70,6 @@ Show:
 Suggested file:
 assets/readme/memory-archive.png
 -->
-
-![Memory archive](assets/readme/memory-archive.png)
-
 ---
 
 ### Computer Body Signals
